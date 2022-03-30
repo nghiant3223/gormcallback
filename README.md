@@ -6,7 +6,7 @@ Utility callbacks for Gorm, the fantastic ORM library for Golang.
 
 - ExplainSQL: print EXPLAIN of SQL statement to the stdout
 
-## Install
+## Installation
 
 `
 go get github.com/nghiant3223/gormcallback
